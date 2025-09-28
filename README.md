@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Zamzam from Nairobi, Studying Software Engineering at Power Learn Project
+I'm Zamzam from Nairobi, Studying Software Engineering 
 
 <!--
 **rotichzamzam/rotichzamzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning Python,MySQL and Javascript
+- 🔭 I’m currently working on Django projects
+- 🌱 I’m currently learning Python and Django
